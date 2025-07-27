@@ -19,3 +19,6 @@ pip install -r requirements.txt
 
 Run a single neuron simulation:
 python single_neuron_sim.py
+
+Reference
+Bose, J. (2007). Engineering a Sequence Machine Using Spiking Neurons. University of Manchester, PhD Thesis.
