@@ -16,3 +16,6 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+Run a single neuron simulation:
+python single_neuron_sim.py
