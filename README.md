@@ -11,6 +11,7 @@ This repository provides code and conceptual materials for the **Pendulum Model 
 - Notes for implementation on SpiNNaker hardware
 
 Reference
+
 Bose, J. (2007). Engineering a Sequence Machine Using Spiking Neurons. University of Manchester, PhD Thesis.
 
 ## Getting Started
